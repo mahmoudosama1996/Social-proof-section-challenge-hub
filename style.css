@@ -59,6 +59,7 @@ img {
     flex-direction: column;
     background: url(./images/bg-pattern-bottom-desktop.svg) no-repeat bottom right,
     url(./images/bg-pattern-top-desktop.svg) no-repeat top left ;
+    background-size: 80% 80% , auto;
     height: 100%;
     padding: 120px;
     font-family: spartan;
